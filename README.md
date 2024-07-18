@@ -4,16 +4,16 @@ F.<?xml version="1.0" encoding="UTF-8"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>R.E.Obeng</title>
-        <author>R.E.Obeng</author>
+        <title>Kobina Sekyi</title>
+        <author>Kobina Sekyi</author>
       </titleStmt>
       <publicationStmt>
         <publisher>Example Publisher</publisher>
-        <date>1943</date>
+        <date>1923</date>
       </publicationStmt>
       <sourceDesc>
-        <p>Original text from "Eighteenpence" by R.E.Obeng.</p>
-        <p>Original text from "Eighteenpence" by R.E. Obeng.</p>
+        <p>Original text from "The Anglo-Fanti by Kobina Sekyi.</p>
+        <p>Original text from "The Anglo-Fanti by Kobina Sekyi.</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
