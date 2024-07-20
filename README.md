@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Kobina Sekyi</title>
+        <title>The Anglo-Fanti</title>
         <author>Kobina Sekyi</author>
       </titleStmt>
       <publicationStmt>
