@@ -12,7 +12,7 @@
         <date>1923</date>
       </publicationStmt>
       <sourceDesc>
-        <p>"The Anglo-Fanti. A short Story by Kobina Sekyi.</p>
+        <p>The Anglo-Fanti. A short Story by Kobina Sekyi.</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
