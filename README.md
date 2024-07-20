@@ -13,7 +13,6 @@
       </publicationStmt>
       <sourceDesc>
         <p>Original text from "The Anglo-Fanti by Kobina Sekyi.</p>
-        <p>Original text from "The Anglo-Fanti by Kobina Sekyi.</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
