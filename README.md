@@ -19,12 +19,11 @@ F.<?xml version="1.0" encoding="UTF-8"?>
   </teiHeader>
   <text>
     <body>
-      <div type="chapter" n="I">
-        <head>The Purchase</head>
+      <div type="Part " n="I">
+        <head>Boyhood</head>
         The Anglo-Fanti 
 A Short Story 
- Part I 
-Boyhood 
+ 
 Early Days
  <p><persName>Kwesi Onyidzin</persName> is a healthy black boy - a Fanti. He is full of life, bubbling over with the energy of little boy-hood: he is fond of playing tricks which his infantile mind prompts him to regard as fun; he is absolutely incapable of sitting -till; he sulks when he is thwarted effectively, cries when he is slapped, and sleeps when he is tired; he likes to imitate everything he sees done; he asks startling and sometimes embarrassing questions; he says quaint things in his own manner; last, but not least, he is always capable of eating and digesting anything that is edible and palatable - in short, he is just an ordinary little boy. </p>
  
@@ -43,7 +42,7 @@ Early Days
  <p>In conclusion, this is how our little friend usually spends his day. When he wakes up, or rather is aroused, in the morning, he has to attend family prayers, conducted in the Christian manner. After prayers he follows his younger relatives in greeting their older relatives. Then comes the washing of his face and the practice at chewing and using the sawii. At this stage he has no part to play in the tidying up of the house in the morning: so he thinks of nothing but his breakfast. In the evening either he listens to fairy-tales told by turns by his elder brothers, sisters, or cousins, or he is led by them in outdoor games (especially on moonlight nights), and it is really delightful to hear his voice taking part to the best of its ‘infantile ability either in the songs with which the tales are interspersed or in the verses and other expressions by which the games are conducted, or in the shouts of laughter that, coming from the hearts of happy children, are themselves a source of happiness to weary adults. Kwesi plays till he is tired, or till he is called up to sleep, some time before his elders seek their beds after evening prayers. </p>
  
 
-Boyhood 
+<head>Boyhood </head>
 Some Joys and Sorrows of the Civilised Small Boy
  -------------------------- 
 <p>Perhaps the first of the joys arising from the civilising of our young friend, Kwesi Onyidzin, is what he calls his brofudzin (European name). That name, as a fact, is European in spirit and sometimes also in substance. In his case the European substance in his brofudzin was bestowed on him at the baptismal rail, or font, as the case may be, where, at the proper moment, that name was first announced to the public: Archibald Edward these being his Christian names. The surname, in his case, has an African basis, but in pronunciation and function it is European: Cudjoe; for his father had been registered at school as Cudjoe (with the accent on the first syllable) because his father’s name had been given as Kwodwo (with the accent on the second syllable), the Fanti praenomen of the boy born on a Monday. In this respect, of course, Kwesi Onyidzin is more fortunate than some of his friends who have surnames that are thoroughly European, such surnames having been substituted for the ‘unpronounceable’ names of the earliest of his ascendants, who had been sent to the schools of the earliest missionaries.</p>
